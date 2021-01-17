@@ -22,7 +22,7 @@ Each question has a level :
 /* POINTS */         
 Point system:
 
-    TYPE : QCM
+    TYPE : MCQ
             level 1 : +35 points
             level 2 : +85 points
             level 3 : +250 points

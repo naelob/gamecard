@@ -8,7 +8,7 @@ Demo:
 1. CLONE THE REPOSITORY
 
 ```
-git clone
+git clone https://github.com/naelob/gamecard.git
 ```
 
 2. INSTALL XAMPP TO RUN THE PROJECT

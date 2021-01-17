@@ -39,7 +39,7 @@ require "VIEWS/fonctionAffichage.php";
         Impress Your Friends!
 
     </div>
-    <a href="readMe.html" style="text-decoration:none;font-size:15px;float:right;font-family:arial;margin-right:30px;">HOW TO PLAY</a>
+    <a href="rules.html" style="text-decoration:none;font-size:15px;float:right;font-family:arial;margin-right:30px;">HOW TO PLAY</a>
     <div class="image">
         <img src="img-site/img.png">
 

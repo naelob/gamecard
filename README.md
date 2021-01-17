@@ -2,6 +2,8 @@
 
 Demo: 
 
+![]( https://github.com/naelob/gamecard/blob/main/gifDemo.gif)
+
 
 1. CLONE THE REPOSITORY
 

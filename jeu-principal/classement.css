@@ -1,0 +1,37 @@
+@font-face{
+    font-family:"Beaumont";
+    src: url("../fonts/Catherine.ttf");
+}
+@font-face{
+    font-family:"elgoc";
+    src: url("../fonts/ElgocMedium.woff");
+}
+
+body{
+    position: relative;
+    background-color: black;
+    font-family: elgoc;
+}
+
+
+.logo{
+    font-family: Beaumont;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+
+div{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: orchid;
+}

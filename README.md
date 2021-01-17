@@ -34,6 +34,10 @@ Create then your database and remember the name you give to it.
 
 Then you can set the new value of $dBName with this previous name used for the database in PHPMYADMIN.
 
+You must import the database of the game. You can find it in the repo, it's called "dbgamecard.sql". 
+Import it just after the creation of your database in PHPMYADMIN.
+It's MANDATORY, otherwise you won't be able to play the game.
+
 5. RUN THE PROJECT
 
 ````
